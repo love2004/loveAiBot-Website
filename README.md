@@ -1,4 +1,6 @@
 # loveAiBot-Website
 A simple discord bot static web 
 
-Welcome to my website http://loveaibot.ga/
+<h1>Welcome to my website</h1>
+http://loveaibot.ga/
+
